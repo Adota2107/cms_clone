@@ -1,0 +1,26 @@
+#page-wrapper{
+    background-image: url(//cmshn.fpt.edu.vn/pluginfile.php/1/theme_trema/loginbackgroundimage/1684246329/sanhAlpha2.jpg);
+    background-position: top center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    position: relative;
+    min-height: 100vh;
+}
+
+#page-wrapper{
+    flex: 1 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+#content{
+    background-color: white;
+    height: 249px;
+    width: 718px;
+}
+
+#login .btn{
+    width: 75%;
+}
